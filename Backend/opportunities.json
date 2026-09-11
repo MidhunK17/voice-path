@@ -1,0 +1,288 @@
+[
+  {
+    "id": "ISB-GAR-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "ISB",
+    "domain": "Industry, Service and Business",
+    "activity": "Readymade garments units",
+    "skills": [
+      "tailoring",
+      "garment making",
+      "clothing",
+      "sewing",
+      "sewing machine operation",
+      "dress making"
+    ]
+  },
+  {
+    "id": "HHL-TEX-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "HHL",
+    "domain": "Handicrafts and Handlooms",
+    "activity": "Handloom and Textiles",
+    "skills": [
+      "handloom",
+      "textile work",
+      "weaving",
+      "embroidery",
+      "craft work",
+      "handicrafts"
+    ]
+  },
+  {
+    "id": "ISB-PLU-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "ISB",
+    "domain": "Industry, Service and Business",
+    "activity": "Plumbing unit",
+    "skills": [
+      "plumbing",
+      "pipe repair",
+      "pipe installation",
+      "water pipe work",
+      "plumber"
+    ]
+  },
+  {
+    "id": "ISB-AUT-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "ISB",
+    "domain": "Industry, Service and Business",
+    "activity": "Auto / Automobile repair units",
+    "skills": [
+      "automobile repair",
+      "car repair",
+      "bike repair",
+      "motorcycle repair",
+      "vehicle repair",
+      "mechanical repair"
+    ]
+  },
+  {
+    "id": "ANI-DAI-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "ANI",
+    "domain": "Animal Husbandry",
+    "activity": "Dairy farming",
+    "skills": [
+      "dairy farming",
+      "cattle farming",
+      "milch cattle",
+      "animal husbandry"
+    ]
+  },
+  {
+    "id": "ANI-POU-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "ANI",
+    "domain": "Animal Husbandry",
+    "activity": "Poultry",
+    "skills": [
+      "poultry",
+      "chicken farming",
+      "poultry farming",
+      "bird farming"
+    ]
+  },
+  {
+    "id": "ANI-GOA-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "ANI",
+    "domain": "Animal Husbandry",
+    "activity": "Goat / Sheep farming",
+    "skills": [
+      "goat farming",
+      "sheep farming",
+      "goat rearing",
+      "sheep rearing",
+      "animal rearing"
+    ]
+  },
+  {
+    "id": "AGR-BEE-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "AGR",
+    "domain": "Agriculture and Soil Conservation",
+    "activity": "Honey bee keeping and processing",
+    "skills": [
+      "beekeeping",
+      "bee keeping",
+      "honey production",
+      "honey processing",
+      "apiculture"
+    ]
+  },
+  {
+    "id": "AGR-FAR-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "AGR",
+    "domain": "Agriculture and Soil Conservation",
+    "activity": "Organic and environment-friendly farming",
+    "skills": [
+      "farming",
+      "organic farming",
+      "crop cultivation",
+      "agriculture",
+      "soil conservation"
+    ]
+  },
+  {
+    "id": "HOR-VEG-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "HOR",
+    "domain": "Horticulture",
+    "activity": "Fruit and vegetable cultivation",
+    "skills": [
+      "vegetable farming",
+      "fruit cultivation",
+      "vegetable cultivation",
+      "horticulture",
+      "gardening"
+    ]
+  },
+  {
+    "id": "HOR-NUR-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "HOR",
+    "domain": "Horticulture",
+    "activity": "Small nurseries and seed farms",
+    "skills": [
+      "nursery",
+      "plant nursery",
+      "seed farming",
+      "plant cultivation",
+      "gardening"
+    ]
+  },
+  {
+    "id": "FIS-PIS-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "FIS",
+    "domain": "Fisheries",
+    "activity": "Pisciculture",
+    "skills": [
+      "fish farming",
+      "fish production",
+      "pisciculture",
+      "aquaculture",
+      "fishing"
+    ]
+  },
+  {
+    "id": "FPR-FOD-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "FPR",
+    "domain": "Food Processing",
+    "activity": "Food processing activities",
+    "skills": [
+      "food processing",
+      "food preparation",
+      "food production",
+      "food preservation"
+    ]
+  },
+  {
+    "id": "ISB-CAR-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "ISB",
+    "domain": "Industry, Service and Business",
+    "activity": "Carpentry and furniture making",
+    "skills": [
+      "carpentry",
+      "woodworking",
+      "furniture making",
+      "wood work"
+    ]
+  },
+  {
+    "id": "ISB-ELE-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "ISB",
+    "domain": "Industry, Service and Business",
+    "activity": "Electronics related activities",
+    "skills": [
+      "electronics",
+      "electronic repair",
+      "electronics repair",
+      "circuit repair"
+    ]
+  },
+  {
+    "id": "ISB-BAK-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "ISB",
+    "domain": "Industry, Service and Business",
+    "activity": "Bakery units",
+    "skills": [
+      "baking",
+      "bakery",
+      "bread making",
+      "cake making",
+      "food baking"
+    ]
+  },
+  {
+    "id": "ISB-BEA-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "ISB",
+    "domain": "Industry, Service and Business",
+    "activity": "Beauty parlour",
+    "skills": [
+      "beauty services",
+      "hair styling",
+      "beautician",
+      "beauty parlour",
+      "salon"
+    ]
+  },
+  {
+    "id": "ISB-IT-01",
+    "scheme": "PM-AJAY",
+    "schemeComponent": "Grants-in-aid",
+    "projectType": "Comprehensive Livelihood Project",
+    "domainCode": "ISB",
+    "domain": "Industry, Service and Business",
+    "activity": "IT / ITeS services",
+    "skills": [
+      "computer",
+      "information technology",
+      "IT services",
+      "computer services",
+      "digital services"
+    ]
+  }
+]

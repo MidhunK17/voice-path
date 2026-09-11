@@ -1,0 +1,218 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+
+    font-family: Arial, sans-serif;
+
+    background: #f4fbfa;
+
+    color: #123b3a;
+
+    min-height: 100vh;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+
+.container {
+
+    width: 90%;
+
+    max-width: 800px;
+
+    text-align: center;
+
+    background: white;
+
+    padding: 50px;
+
+    border-radius: 25px;
+
+    box-shadow:
+        0 10px 40px rgba(0,0,0,0.08);
+
+}
+
+
+h1 {
+
+    font-size: 48px;
+
+    letter-spacing: 4px;
+
+}
+
+
+.tagline {
+
+    font-size: 22px;
+
+    margin-top: 10px;
+
+    color: #168b82;
+
+}
+
+
+.description {
+
+    margin-top: 20px;
+
+    font-size: 18px;
+
+    color: #555;
+
+}
+
+
+.languages {
+
+    margin: 30px 0;
+
+}
+
+
+.languages button {
+
+    padding: 12px 22px;
+
+    margin: 5px;
+
+    border: 1px solid #168b82;
+
+    border-radius: 10px;
+
+    background: white;
+
+    color: #168b82;
+
+    cursor: pointer;
+
+    font-size: 16px;
+
+}
+
+
+.languages button:hover {
+
+    background: #168b82;
+
+    color: white;
+
+}
+
+
+#speakButton {
+
+    padding: 18px 35px;
+
+    border: none;
+
+    border-radius: 15px;
+
+    background: #168b82;
+
+    color: white;
+
+    font-size: 18px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+}
+
+
+#speakButton:hover {
+
+    transform: scale(1.03);
+
+}
+
+
+#status {
+
+    margin-top: 25px;
+
+    color: #666;
+
+}
+
+
+#transcript {
+
+    margin-top: 25px;
+
+    padding: 20px;
+
+    background: #f1f7f6;
+
+    border-radius: 15px;
+
+    min-height: 70px;
+
+    font-size: 18px;
+
+}
+#analyzeButton {
+
+    margin-top: 20px;
+
+    padding: 16px 30px;
+
+    border: none;
+
+    border-radius: 12px;
+
+    background: #123b3a;
+
+    color: white;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+}
+
+
+#analyzeButton:disabled {
+
+    background: #cccccc;
+
+    cursor: not-allowed;
+
+}
+
+
+#results {
+
+    margin-top: 30px;
+
+    text-align: left;
+
+}
+
+
+.skill-card {
+
+    background: #f1f7f6;
+
+    padding: 15px;
+
+    margin-top: 10px;
+
+    border-radius: 12px;
+
+}

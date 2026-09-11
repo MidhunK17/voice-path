@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>VoicePath</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>VOICEPATH</h1>
+
+        <p class="tagline">Skills Beyond Words</p>
+
+        <p class="description">
+            Tell us what you can do.
+            We'll find an opportunity for you.
+        </p>
+
+        <div class="languages">
+
+            <button onclick="setLanguage('ta-IN')">
+                தமிழ்
+            </button>
+
+            <button onclick="setLanguage('hi-IN')">
+                हिन्दी
+            </button>
+
+            <button onclick="setLanguage('en-IN')">
+                English
+            </button>
+
+        </div>
+
+        <button id="speakButton" onclick="startListening()">
+            START SPEAKING
+        </button>
+
+        <div id="status">
+            Select a language and start speaking.
+        </div>
+
+        <div id="transcript"></div>
+
+        <button id="analyzeButton" onclick="analyzeSkills()">
+            FIND OPPORTUNITY
+        </button>
+
+        <div id="results"></div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
